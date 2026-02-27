@@ -1,6 +1,9 @@
 This repository contains all of the information necessary to install and run Pokemon IronMon Kaizo Fire Red MIX n MAX
 The .xlxs file contains the full set of rules required to properly play the game mode.
 The .rnqs file provides the settings file necessary to randomize your seed appropriately.
+The .bps file will be used to patch your rom using the patching tool.
+
+All instructions for installing the IronMon Bundle, Max Extension Bundle, and patching your rom can be found at ironmon.gg
 
 Instructions for installation (Please note, this installation guide assumes an already-installed IronMon Bundle (IAteYourPie) and Max Extension Bundle (ChampRed)
 
